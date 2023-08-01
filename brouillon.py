@@ -5,12 +5,10 @@ livre = "Gatsby le Magnifique"
 print("Gatsby le Magnifique")
 
 
->>> livre = "Gatsby le Magnifique"
->>> print(livre)
-Gatsby le Magnifique
->>> livre = "Beloved"
->>> print(livre)
-Beloved
+print(livre)
+
+livre = "Beloved"
+print(livre)
 
 
 livre1 = "Gatsby le Magnifique"
