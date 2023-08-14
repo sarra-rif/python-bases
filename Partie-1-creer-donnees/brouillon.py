@@ -34,3 +34,5 @@ print("livre2 : " +livre2 )
 print("tmp : " +tmp )
 
 print(" apres  parmutation \n" + "livre1 : " +livre1 + "\n livre2 : " +livre2 + " \n tmp : " +tmp )
+
+print(f"Bonjour, je m'appelle {prenom} {nom} et j'ai {age} ans.")
